@@ -1,0 +1,11 @@
+{
+  "publishOptions": {
+    "include": [
+        "wwwroot",
+        "**/*.cshtml",
+        "appsettings.json",
+        "Dockerfile.build",
+        "Dockerfile"
+    ]
+  }
+}
